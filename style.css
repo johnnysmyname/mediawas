@@ -14,7 +14,13 @@ header {
 }
 
 #intro {
-
+	background: url(img/bg.png) 100% 100% no-repeat;
+  background-size: 100%;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 700px;
 }
 
 .row {
